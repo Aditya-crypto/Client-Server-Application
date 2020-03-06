@@ -1,7 +1,5 @@
 ## Client-Server Application
- Encrypted Files are Downloaded from server and Decrypted accodingly.
- for communication between client and server Socket programming is used and,
- Deffie-Hellman Key Exchange is used for key generation which in turn used in 3DES algorithm for secure communication.
+Application of Secure Transmission between client and Server using Principles of System and Network Security.
 
 ## Language Used:
 Python3
@@ -11,9 +9,10 @@ Linux
 ## Features:
 1. All types of files can be downloaded from server.
 2. Files are transferred Chunk-wise
-2. Encrypted Files are transferred and decrypted accordingly on the clientside.
-3. Socket Programming for communication between server and client is used.
-4  3DES Encrytion is used for secure Transmission
+3. Encrypted Files are transferred and decrypted accordingly on the clientside.
+4. Socket Programming for communication between server and client is used.
+5  3DES Encrytion is used for secure Transmission
+6. For key generation Deffie Hellman key exchange is used
 
 ## How To Run Program:
 
