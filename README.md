@@ -1,17 +1,13 @@
 ## Client-Server Application
-Application of Secure Transmission between client and Server using Principles of System and Network Security.
+Application of Secure Transmission of files between client and Server using Principles of System and Network Security.
 
-## Language Used:
-Python3
-## OS:
-Linux
 
 ## Features:
 1. All types of files can be downloaded from server.
-2. Files are transferred Chunk-wise
+2. Files are transferred Chunk-wise, It makes downloading fast
 3. Encrypted Files are transferred and decrypted accordingly on the clientside.
 4. Socket Programming for communication between server and client is used.
-5  3DES Encrytion is used for secure Transmission
+5. 3DES Encrytion is used for secure Transmission
 6. For key generation Deffie Hellman key exchange is used
 
 ## How To Run Program:
@@ -25,3 +21,7 @@ Linux
    - open terminal and write python3 myserver.py
    - open in onother terminal and write python3 client.py
       - enter filename that you need to Download from Server.
+
+## Technologies Used:
+Python, Linux OS
+
